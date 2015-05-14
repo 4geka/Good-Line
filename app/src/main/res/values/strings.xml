@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GoodlineAppTest</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="empty">Ничего нет</string>
+    <string name="title_app">Good Line</string>
+    <string name="refresh_app">Загрузка</string>
+    <string name="refresh_app_over">Загружено</string>
+    <string name="error">Ошибка.</string>
+    <string name="title_app_two">MainActivity</string>
+</resources>
