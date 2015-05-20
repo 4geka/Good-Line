@@ -4,12 +4,12 @@ package com.example.ergo_proxy.goodlineapptest;
  * Created by Ergo-Proxy on 14.05.2015.
  */
 /*import android.support.v7.app.ActionBarActivity;*/
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.TextView;
-
 /*import com.android.volley.Request;
 import com.android.volley.Response;
 import com.android.volley.VolleyError;
@@ -28,6 +28,8 @@ public class MainTwoActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main_two);
+        Intent intent=new Intent(this,MyService.class);
+        startService(intent);
     }
 
     @Override

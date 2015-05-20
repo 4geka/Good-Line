@@ -9,4 +9,6 @@
     <string name="refresh_app_over">Загружено</string>
     <string name="error">Ошибка.</string>
     <string name="title_app_two">MainActivity</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
 </resources>
