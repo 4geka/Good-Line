@@ -10,7 +10,6 @@
         <ListView
             android:id="@+id/news_list"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:background="#ffffaf04"></ListView>
+            android:layout_height="wrap_content"></ListView>
     </com.orangegangsters.github.swipyrefreshlayout.library.SwipyRefreshLayout>
 </LinearLayout>
