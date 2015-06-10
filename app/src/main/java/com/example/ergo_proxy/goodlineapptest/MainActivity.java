@@ -13,6 +13,10 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 
+/**
+ * This Activity class defines the home screen for the recipe app.
+ */
+
 public class MainActivity extends AppCompatActivity {
 
 
